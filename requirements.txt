@@ -1,0 +1,8 @@
+scikit-learn
+pandas
+requests
+torch
+tqdm
+transformers
+openai
+elasticsearch
